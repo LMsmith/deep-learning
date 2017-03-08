@@ -1,3 +1,11 @@
+# Image classification project
+
+Convolutional Neural Network that classifies images from the CIFAR-10 dataset.
+
+To view results, run the dlnd_image_classification.ipynb notebook or view the dlnd_image_classification.html file.
+
+I used Floydhub to complete this project, using the environment scripts and instructions listed below, put together by ludwiktrammer https://github.com/ludwiktrammer/deep-learning
+
 ## Running the Udacity Deep Learning Foundations image classification project on floydhub.com
 
 1. Create an account on [floydhub.com](https://www.floydhub.com) (don't forget to confirm your email). You will automatically receive 100 free GPU hours. 
